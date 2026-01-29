@@ -22,6 +22,14 @@ glassmorphism UI, timer per question, category-based API questions and smooth an
 2. Open `index.html`
 3. Select category and start quiz 🎉
 
+## Screenshot
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c7ce14-60ad-46e3-85d4-0cd41018aab1" />
+
+
+
+
 ---
 
 Made with ❤️ by **Mohammed-Sabeel**
+
